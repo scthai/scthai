@@ -1,16 +1,12 @@
 
-# Hi, I'm Thaina!
-
+Thaina Silva ⭐
 ## About me:
 
 I'm a Student FrontEnd Developer :smile:
 
-I Love code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
+💻 I love code and create new stuff, I like too much to discover new technologies and acquire knowledge in this area.
 
-## My specialties:
-
-### Languages: ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### Frontend: <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
+## Skills:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
 
 
