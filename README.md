@@ -3,7 +3,7 @@
 
 ## About me:
 
-I'm a Student FrontEnd Developer
+I'm a Student Frontend Developer
 
 I love code and create new stuff, I like too much to discover new technologies and acquire knowledge in this area. 💻
 
