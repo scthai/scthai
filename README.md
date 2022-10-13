@@ -1,5 +1,6 @@
 
-Thaina Silva 
+## Thaina Silva 
+
 ## About me:
 
 I'm a Student FrontEnd Developer
